@@ -6,7 +6,9 @@ import requests
 import time
 from bs4 import BeautifulSoup as BS
 
+
 contact_page_names = ["Impressum","impressum", "contact", "contact-us"]
+manager_names = ["Geschäftsführer", "Vorstand"]
 
 
 print("Starting Script")
